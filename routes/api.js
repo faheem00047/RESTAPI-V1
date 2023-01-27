@@ -39,7 +39,8 @@ if (req.query.number == "7"){ var urlpro = "https://textpro.me/create-3d-comic-t
 if (req.query.number == "8"){ var urlpro = "https://textpro.me/create-green-slime-text-effect-online-1097.html"}
 if (req.query.number == "9"){ var urlpro = "https://textpro.me/create-3d-halloween-text-effects-online-1098.html"}
 if (req.query.number == "10"){ var urlpro = "https://textpro.me/create-realistic-3d-text-effect-frozen-winter-1099.html"}
-
+if (req.query.number == "11"){ var urlpro = "https://textpro.me/create-thunder-text-effect-online-881.html"}
+ 
   zrapi.textpro(urlpro, [req.query.text])
   .then((data) => { 
   var requestSettings = {
