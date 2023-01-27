@@ -40,6 +40,16 @@ if (req.query.number == "8"){ var urlpro = "https://textpro.me/create-green-slim
 if (req.query.number == "9"){ var urlpro = "https://textpro.me/create-3d-halloween-text-effects-online-1098.html"}
 if (req.query.number == "10"){ var urlpro = "https://textpro.me/create-realistic-3d-text-effect-frozen-winter-1099.html"}
 if (req.query.number == "11"){ var urlpro = "https://textpro.me/create-thunder-text-effect-online-881.html"}
+if (req.query.number == "12"){ var urlpro = "https://textpro.me/create-neon-light-on-brick-wall-online-1062.html"}
+if (req.query.number == "13"){ var urlpro = "https://textpro.me/neon-text-effect-online-879.html"}
+if (req.query.number == "14"){ var urlpro = "https://textpro.me/create-a-futuristic-technology-neon-light-text-effect-1006.html"}
+if (req.query.number == "15"){ var urlpro = "https://textpro.me/create-glowing-neon-light-text-effect-online-free-1061.html"}
+if (req.query.number == "16"){ var urlpro = "https://textpro.me/create-a-transformer-text-effect-online-1035.html"}
+if (req.query.number == "17"){ var urlpro = "https://textpro.me/create-realistic-golden-text-effect-on-red-sparkles-online-1082.html"}
+if (req.query.number == "18"){ var urlpro = "https://textpro.me/elegant-white-gold-3d-text-effect-online-free-1070.html"}
+if (req.query.number == "19"){ var urlpro = "https://textpro.me/create-a-3d-luxury-metallic-text-effect-for-free-1071.html"}
+if (req.query.number == "20"){ var urlpro = "https://textpro.me/create-a-3d-glossy-metal-text-effect-1019.html"}
+if (req.query.number == "21"){ var urlpro = "https://textpro.me/write-text-on-foggy-window-online-free-1015.html"}
  
   zrapi.textpro(urlpro, [req.query.text])
   .then((data) => { 
