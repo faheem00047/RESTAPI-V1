@@ -49,8 +49,10 @@ if (req.query.number == "17"){ var urlpro = "https://textpro.me/create-realistic
 if (req.query.number == "18"){ var urlpro = "https://textpro.me/elegant-white-gold-3d-text-effect-online-free-1070.html"}
 if (req.query.number == "19"){ var urlpro = "https://textpro.me/create-a-3d-luxury-metallic-text-effect-for-free-1071.html"}
 if (req.query.number == "20"){ var urlpro = "https://textpro.me/create-a-3d-glossy-metal-text-effect-1019.html"}
-if (req.query.number == "21"){ var urlpro = "https://textpro.me/write-text-on-foggy-window-online-free-1015.html"}
- 
+if (req.query.number == "21"){ var urlpro = "https://textpro.me/create-a-cloud-text-effect-in-the-sky-online-997.html"}
+if (req.query.number == "22"){ var urlpro = "https://textpro.me/broken-glass-text-effect-free-online-1023.html"}
+if (req.query.number == "23"){ var urlpro = "https://en.ephoto360.com/write-text-on-wet-glass-online-589.html"}
+
   zrapi.textpro(urlpro, [req.query.text])
   .then((data) => { 
   var requestSettings = {
