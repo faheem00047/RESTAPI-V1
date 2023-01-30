@@ -52,6 +52,43 @@ if (req.query.number == "20"){ var urlpro = "https://textpro.me/create-a-3d-glos
 if (req.query.number == "21"){ var urlpro = "https://textpro.me/create-a-cloud-text-effect-in-the-sky-online-997.html"}
 if (req.query.number == "22"){ var urlpro = "https://textpro.me/broken-glass-text-effect-free-online-1023.html"}
 if (req.query.number == "23"){ var urlpro = "https://en.ephoto360.com/write-text-on-wet-glass-online-589.html"}
+if (req.query.number == "24"){ var urlpro = "https://textpro.me/3d-luxury-gold-text-effect-online-1003.html"} 
+if (req.query.number == "25"){ var urlpro = "https://textpro.me/horror-gift-text-effect-866.html"}
+if (req.query.number == "26"){ var urlpro = "https://textpro.me/wood-text-effect-856.html"}
+if (req.query.number == "27"){ var urlpro = "https://textpro.me/blood-text-on-the-frosted-glass-941.html"}
+if (req.query.number == "28"){ var urlpro = "https://textpro.me/color-full-luxury-metal-text-effect-969.html"}
+if (req.query.number == "29"){ var urlpro = "https://textpro.me/create-logo-joker-online-934.html"}
+if (req.query.number == "30"){ var urlpro = "https://textpro.me/create-3d-glue-text-effect-with-realistic-style-986.html"}
+if (req.query.number == "31"){ var urlpro = "https://textpro.me/toxic-text-effect-online-901.html"}
+if (req.query.number == "32"){ var urlpro = "https://textpro.me/dropwater-text-effect-872.html"}
+if (req.query.number == "33"){ var urlpro = "https://textpro.me/3d-stone-cracked-cool-text-effect-1029.html"}
+if (req.query.number == "34"){ var urlpro = "https://textpro.me/rock-text-effect-online-915.html"}
+if (req.query.number == "35"){ var urlpro = "https://textpro.me/glossy-carbon-text-effect-965.html"}
+if (req.query.number == "36"){ var urlpro = "https://textpro.me/decorate-purple-text-effect-917.html"}
+if (req.query.number == "37"){ var urlpro = "https://textpro.me/write-text-on-foggy-window-online-free-1015.html"}
+if (req.query.number == "38"){ var urlpro = "https://textpro.me/create-halloween-skeleton-text-effect-online-1047.html"}
+if (req.query.number == "39"){ var urlpro = "https://textpro.me/deluxe-silver-text-effect-970.html"}
+if (req.query.number == "40"){ var urlpro = "https://textpro.me/metal-dark-gold-text-effect-984.html"}
+if (req.query.number == "41"){ var urlpro = "https://textpro.me/rusty-metal-text-effect-860.html"}
+if (req.query.number == "42"){ var urlpro = "https://textpro.me/create-a-3d-rust-style-text-effect-online-1093.html"}
+if (req.query.number == "43"){ var urlpro = "https://textpro.me/metal-dark-gold-text-effect-online-939.html"}
+if (req.query.number == "44"){ var urlpro = "https://textpro.me/biscuit-text-effect-858.html"}
+if (req.query.number == "45"){ var urlpro = "https://textpro.me/ice-cold-text-effect-862.html"}
+if (req.query.number == "46"){ var urlpro = "https://textpro.me/create-winter-cold-snow-text-effect-online-1100.html"}
+if (req.query.number == "47"){ var urlpro = "https://textpro.me/create-beautiful-3d-snow-text-effect-online-1101.html"} 
+if (req.query.number == "48"){ var urlpro = "https://textpro.me/create-snow-text-effects-for-winter-holidays-1005.html"}
+if (req.query.number == "49"){ var urlpro = "https://textpro.me/wicker-text-effect-online-932.html"}
+if (req.query.number == "50"){ var urlpro = "https://textpro.me/decorative-glass-text-effect-891.html"}
+if (req.query.number == "51"){ var urlpro = "https://textpro.me/fabric-text-effect-online-964.html"}
+if (req.query.number == "52"){ var urlpro = "https://textpro.me/blue-glass-text-effect-908.html"}
+if (req.query.number == "53"){ var urlpro = "https://textpro.me/fullcolor-balloon-text-effect-958.html"}
+if (req.query.number == "54"){ var urlpro = "https://textpro.me/double-exposure-text-effect-black-white-976.html"}
+if (req.query.number == "55"){ var urlpro = "https://textpro.me/write-in-sand-summer-beach-free-online-991.html"}
+if (req.query.number == "56"){ var urlpro = "https://textpro.me/create-art-paper-cut-text-effect-online-1022.html"}
+if (req.query.number == "57"){ var urlpro = "https://textpro.me/captain-america-text-effect-905.html"}
+if (req.query.number == "58"){ var urlpro = "https://textpro.me/captain-america-text-effect-905.html"}
+if (req.query.number == "59"){ var urlpro = "https://textpro.me/denim-text-effect-online-919.html"}
+if (req.query.number == "60"){ var urlpro = "https://textpro.me/natural-leaves-text-effect-931.html"}
 
   zrapi.textpro(urlpro, [req.query.text])
   .then((data) => { 
